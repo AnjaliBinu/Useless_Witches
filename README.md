@@ -13,10 +13,26 @@
 - Member 3: Anjali Binu - Albertian Institute Of Science and Technology
 
 ### Project Description
-[2-3 lines about what your project does]
+Always Wrong Calculator : 
+Launching a Calculator that is processed to get two numbers from the user to do four types of arithmetic operations . However , the twist comes during the execution of the code , when asked to do addition ,  the stupid calculator may do division or whichever arithmetic operator the computer prefers.…. Hence , the name Always Wrong Calculator .
+
+Twister Calendar :
+Presenting a Calendar that has more holidays than working days , favorable to all students and lazy bums . It is charismatic , has minimal working days , new names for each day of the week with lots of emojis .
+
+Animistic World Map : 
+Introducing a map that has a mind of its own . The user has the ability to show a country on the map which they prefer , nonetheless , the stubborn map only displays the country which the computer chooses .
+ 
+Goofed up Weather : 
+Inaugurating a headstrong weather app . Other than not listening to which district weather it is supposed to show , the witless always gives out wrong information confidently .
+
+The Capsized Clock : 
+Exhibiting an emotional clock , it may always be wrong , it could be too emotional . Despite that , I bet this clock would make anyone's day. 
+
+Summary : 
+The user is given the ability to choose any of the given applications from above . Nevertheless , the pig-headed computer chooses the option preferable to them.
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+In a world full of pessimism , our team introduces a set of applications to inject fun to the world.
 
 ### The Solution (that nobody asked for)
 [How are you solving it? Keep it fun!]
