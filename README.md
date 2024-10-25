@@ -14,6 +14,7 @@
 
 ### Project Description
 Always Wrong Calculator : 
+
 Launching a Calculator that is processed to get two numbers from the user to do four types of arithmetic operations . However , the twist comes during the execution of the code , when asked to do addition ,  the stupid calculator may do division or whichever arithmetic operator the computer prefers.…. Hence , the name Always Wrong Calculator .
 
 Twister Calendar :
