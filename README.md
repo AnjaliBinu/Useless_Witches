@@ -1,6 +1,6 @@
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
-# 🗺️🧮🗓️ 3C's and Others 🗓️🧮🗺️
+# ⏰🗺️🧮🗓️ 4C's 🗓️🧮🗺️⏰
 
 
 ## Basic Details
@@ -22,9 +22,6 @@ Presenting a Calendar that has more holidays than working days , favorable to al
 Animistic World Map : 
 Introducing a map that has a mind of its own . The user has the ability to show a country on the map which they prefer , nonetheless , the stubborn map only displays the country which the computer chooses .
  
-Goofed up Weather : 
-Inaugurating a headstrong weather app . Other than not listening to which district weather it is supposed to show , the witless always gives out wrong information confidently .
-
 The Capsized Clock : 
 Exhibiting an emotional clock , it may always be wrong , it could be too emotional . Despite that , I bet this clock would make anyone's day. 
 
@@ -99,11 +96,12 @@ For Hardware:
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+https://drive.google.com/file/d/1et-nhOGm56UF4YS_vB3EBE-6HIQgidnL/view?usp=drive_link
+This video shows two outputs out of five available.
 
 # Additional Demos
-[Add any extra demo materials/links]
+1. https://drive.google.com/file/d/1SuStp2hSEzt0qJCccgymv-668iWe1pEm/view?usp=drive_link
+2. https://drive.google.com/file/d/1lm74hJpSFbTc08-ho2RABXYig8wi342C/view?usp=drive_link
 
 ## Team Contributions
 - [Name 1]: [Specific contributions]
