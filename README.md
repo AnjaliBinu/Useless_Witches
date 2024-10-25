@@ -57,12 +57,12 @@ https://colab.research.google.com/drive/1XGSAoiw0ZKm3U4Z4SX5e3_O6FkKi6JhP
 
 ### Project Demo
 # Video
-[Demo : ](https://drive.google.com/file/d/1et-nhOGm56UF4YS_vB3EBE-6HIQgidnL/view?usp=drive_link)
+[Demo](https://drive.google.com/file/d/1et-nhOGm56UF4YS_vB3EBE-6HIQgidnL/view?usp=drive_link)
 This video shows two outputs out of five available.
 
 # Additional Demos
-1. [Additional Demo 1 : ](https://drive.google.com/file/d/1SuStp2hSEzt0qJCccgymv-668iWe1pEm/view?usp=drive_link)
-2. [Additional Demo 2 : ](https://drive.google.com/file/d/1lm74hJpSFbTc08-ho2RABXYig8wi342C/view?usp=drive_link)
+1. [Additional Demo 1](https://drive.google.com/file/d/1SuStp2hSEzt0qJCccgymv-668iWe1pEm/view?usp=drive_link)
+2. [Additional Demo 2](https://drive.google.com/file/d/1lm74hJpSFbTc08-ho2RABXYig8wi342C/view?usp=drive_link)
 
 ## Team Contributions
 - Aemilia Rose P J : Helped in making Calendar and Clock
