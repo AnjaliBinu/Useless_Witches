@@ -14,7 +14,6 @@
 
 ### Project Description
 Always Wrong Calculator : 
-
 Launching a Calculator that is processed to get two numbers from the user to do four types of arithmetic operations . However , the twist comes during the execution of the code , when asked to do addition ,  the stupid calculator may do division or whichever arithmetic operator the computer prefers.…. Hence , the name Always Wrong Calculator .
 
 Twister Calendar :
@@ -36,20 +35,23 @@ The user is given the ability to choose any of the given applications from above
 In a world full of pessimism , our team introduces a set of applications to inject fun to the world.
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+The applications present give a contrast of ourselves , instead of overthinking it does everything in the heat of the moment . 
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
-
+- Language Used : Python
+- Libraries Used :
+  1. Calender
+  2. HTML
+  3. Random
+  4. DateTime
+  5. Plotly.Express
+ 
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- Laptop
+- Phone
+- Tablet
 
 ### Implementation
 For Software:
