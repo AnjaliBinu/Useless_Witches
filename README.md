@@ -624,9 +624,9 @@ This video shows two outputs out of five available.
 2. https://drive.google.com/file/d/1lm74hJpSFbTc08-ho2RABXYig8wi342C/view?usp=drive_link
 
 ## Team Contributions
-- Aemilia Rose P J: Helped in making Calendar and Clock
-- Devika Thampi: Helped in making Calculator and in debugging
-- Anjali Binu: Helped in making Map and overall code
+- Aemilia Rose P J : Helped in making Calendar and Clock
+- Devika Thampi : Helped in making Calculator and in debugging
+- Anjali Binu : Helped in making Map and overall code
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
