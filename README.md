@@ -4,13 +4,13 @@
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: Useless_Witches
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Aemilia Rose P J - Albertian Institute Of Science and Technology
+- Member 2: Devika Thampi - Albertian Institute Of Science and Technology
+- Member 3: Anjali Binu - Albertian Institute Of Science and Technology
 
 ### Project Description
 [2-3 lines about what your project does]
