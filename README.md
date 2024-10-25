@@ -50,14 +50,6 @@ For Hardware:
 - Phone
 - Tablet
 
-### Implementation
-For Software:
-# Installation
-[commands]
-
-# Run
-[commands]
-
 ### Project Documentation
 For Software: # -*- coding: utf-8 -*-
 """USELESS_WITCHES.ipynb
