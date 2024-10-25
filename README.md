@@ -57,7 +57,7 @@ https://colab.research.google.com/drive/1XGSAoiw0ZKm3U4Z4SX5e3_O6FkKi6JhP
 
 ### Project Demo
 # Video
-https://drive.google.com/file/d/1et-nhOGm56UF4YS_vB3EBE-6HIQgidnL/view?usp=drive_link
+[Demo : ](https://drive.google.com/file/d/1et-nhOGm56UF4YS_vB3EBE-6HIQgidnL/view?usp=drive_link)
 This video shows two outputs out of five available.
 
 # Additional Demos
